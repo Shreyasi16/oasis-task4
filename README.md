@@ -6,7 +6,7 @@ I am glad to share that I have successfully completed the Level 2 Task 1 of my i
 Task: Calculator
 IDE: Visual Studio Code
 Technologies: HTML CSS and JavaScript
-GitHub repo link: https://lnkd.in/gtNVfMZN
+GitHub repo link:  https://github.com/Shreyasi16/oasis-task4.git
 
 
 I am thanking Oasis Infobyte for giving me this opportunity. #oasisinfobyte #webdevelopment  #internship  #css  #html  #javascript
